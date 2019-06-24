@@ -1,0 +1,2 @@
+# Lazman
+Lazman programming stuff 
